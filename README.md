@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my page! /n <img src = "https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/115aeccd-a4f0-483c-9cf5-35a34cbfcd0d" width="75" height = "50" />
+### Hi there 👋 Welcome to my page! \n <img src = "https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/115aeccd-a4f0-483c-9cf5-35a34cbfcd0d" width="75" height = "50" />
 
 
 
