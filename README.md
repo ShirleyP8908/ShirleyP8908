@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my page! ###
 
 <!--
 **ShirleyP8908/ShirleyP8908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
