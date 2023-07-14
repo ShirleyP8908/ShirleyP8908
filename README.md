@@ -1,8 +1,13 @@
 ### Hi there 👋 Welcome to my page! ###
 
+![mewo-omori](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/6dbcefdc-b1d9-43bc-b203-c235148ff90a)
 
 
-![image](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/5d7f9775-227c-4ed4-801d-53695677f61f)
+
+
+
+
+
 <!--
 **ShirleyP8908/ShirleyP8908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
