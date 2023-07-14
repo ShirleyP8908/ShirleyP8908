@@ -1,7 +1,5 @@
-### Hi there 👋 Welcome to my page! <img src = "https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/7989163a-3e1f-442d-a8bf-357f4cd7c2d5" width = "200" height = "200"/>
+### Hi there 👋 Welcome to my page! ![ezgif com-resize](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/373fc02c-7746-4e9a-a08b-ca0d6992d156)
 
-
-![ezgif com-resize](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/373fc02c-7746-4e9a-a08b-ca0d6992d156)
 
 
 
