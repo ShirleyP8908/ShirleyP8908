@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my page! 
-![ezgif com-resize](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/373fc02c-7746-4e9a-a08b-ca0d6992d156)
+My name is Shirley. I love different things such as gaming, reading manga, as well as writing. ![ezgif com-resize](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/373fc02c-7746-4e9a-a08b-ca0d6992d156)
 
-My name is Shirley. I love different things such as gaming, reading manga, as well as writing.
 
 
 
