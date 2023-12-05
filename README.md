@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋  ![ezgif com-crop (2)](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/e4f314c7-7e12-4575-a98b-8f8a889a3dbc)
+
 I'm Shirley, a eclectic enthusiast of different things such as gaming, reading manga, as well as writing. I started out learning Java but grew to love the data world and the languages surrounding it. Python has been my main language of choice for diving deep into the realms of data science, and analytics. Exploring the data world, I'm passionate about transforming raw information into deep insights. My python repositories reflect a blend of analytical projects using different data sets. 
 
-When I'm not immersed in data, you'll find me gaming, exploring the latest manga releases, or writing on my downtime. I'm currently going back into the coding space and relearning Python so I could create more data related projects. I'm always up for a challenge and very eager to learn something new, especially in the coding space. Happy coding!  ![ezgif com-crop (2)](https://github.com/ShirleyP8908/ShirleyP8908/assets/98612806/e4f314c7-7e12-4575-a98b-8f8a889a3dbc)
+When I'm not immersed in data, you'll find me gaming, exploring the latest manga releases, or writing on my downtime. I'm currently going back into the coding space and relearning Python so I could create more data related projects. I'm always up for a challenge and very eager to learn something new, especially in the coding space. Happy coding!
 
 
 
